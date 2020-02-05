@@ -27,14 +27,20 @@ class ArrayList(capacity: Int = 10) {
             throw ArrayIndexOutOfBoundsException()
         }
 
-        size--
         val delElement = datas[index]
-        System.arraycopy(datas, index + 1, datas, index, size - index - 1)
+        val moveSize = size - index - 1
+        if (moveSize > 0) {
+            System.arraycopy(datas, index + 1, datas, index, size - index - 1)
+        }
+        size--
         return delElement
     }
 
     fun print() {
-        datas.print()
+        for (i in 0 until size) {
+            print("${datas[i]},")
+        }
+        println()
     }
 }
 
@@ -47,6 +53,22 @@ class ArrayTest {
         arr.add(3)
         arr.add(4)
         arr.add(5)
+        arr.print()
+        arr.remove(4)
+        arr.remove(3)
+        arr.remove(2)
+        arr.remove(1)
+        arr.remove(0)
+        println("after removing all: size = ${arr.size}")
+        arr.add(1)
+        arr.add(2)
+        arr.add(3)
+        arr.add(4)
+        arr.add(5)
+        println("after adding 1 to 5 :")
+        arr.remove(0)
+        arr.remove(0)
+        println("after del 0 to 1 :")
         arr.print()
     }
 }
