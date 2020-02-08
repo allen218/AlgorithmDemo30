@@ -3,8 +3,9 @@ package com.allen.testalgorithm
 import org.junit.Test
 
 /**
- * 4. 实现单链表（LinkedList），循环链表（CircularLinkedList），双向链表，支持增删操作
+ * 4-1. 实现单链表（LinkedList），循环链表（CircularLinkedList），双向链表（TwoWayLinkedList），支持增删操作
  * 5. 单链表反转（ReverseLinkedList）
+ * 6. 实现两个有序的链表合并为一个有序链表（）
  * Created by allen on 2020-02-06.
  */
 class LinkedList {
@@ -147,113 +148,5 @@ class CircularLinkedListTest {
     }
 }
 
-class Node1(
-    val value: Int,
-    var next: Node1?,
-    var pre: Node1?
-)
 
-class TwoWayLinkedList {
-    private var head: Node1? = null
 
-    fun add(element: Int) {
-        val node = Node1(element, null, null)
-        if (head == null) {
-            head = node
-            head?.next = node
-            head?.pre = node
-            return
-        }
-
-        node.next = head
-        node.pre = head?.pre
-
-        head?.pre?.next = node
-        head?.pre = node
-    }
-
-    fun remove() {
-        if (head?.next == head) {
-            head = null
-            return
-        }
-        val lastSecond = head?.pre?.pre
-        lastSecond?.next = head
-        head?.pre = lastSecond
-    }
-
-    fun print() {
-        var tmp = head
-        while (tmp?.next != head) {
-            print("${tmp?.value},")
-            tmp = tmp?.next
-        }
-        println("${tmp?.value}")
-    }
-}
-
-class TwoWayLinkedListTest {
-    @Test
-    fun test() {
-        val twoWayLinkedList = TwoWayLinkedList()
-        twoWayLinkedList.add(1)
-        twoWayLinkedList.add(2)
-        twoWayLinkedList.add(3)
-        twoWayLinkedList.add(4)
-        twoWayLinkedList.print()
-        println("after deleting 4 and 3 : ")
-        twoWayLinkedList.remove()
-        twoWayLinkedList.remove()
-        twoWayLinkedList.print()
-        println("after deleting all : ")
-        twoWayLinkedList.remove()
-        twoWayLinkedList.remove()
-        println("after adding 1 : ")
-        twoWayLinkedList.add(1)
-        twoWayLinkedList.print()
-    }
-}
-
-class ReverseLinkedList {
-    fun reverse(head: Node?): Node? {
-        if (head == null) {
-            return null
-        }
-
-        var pre: Node? = null
-        var cur: Node? = head
-        while (cur != null) {
-            val curNext = cur.next
-            cur.next = pre
-            pre = cur
-            cur = curNext
-        }
-        return pre
-    }
-}
-
-fun printNode(node: Node?) {
-    var tmp = node
-    if (node == null) {
-        return
-    }
-
-    while (tmp != null) {
-        print("${tmp.value},")
-        tmp = tmp.next
-    }
-    println()
-}
-
-class ReverseLinkedListTest {
-    @Test
-    fun test() {
-        val linkedList = LinkedList()
-        linkedList.add(1)
-        linkedList.add(2)
-        linkedList.add(3)
-
-        val reverseLinedList = ReverseLinkedList()
-        printNode(reverseLinedList.reverse(linkedList.head))
-    }
-}
