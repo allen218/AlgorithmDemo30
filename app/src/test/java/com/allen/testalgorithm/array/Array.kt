@@ -1,4 +1,4 @@
-package com.allen.testalgorithm
+package com.allen.testalgorithm.array
 
 import org.junit.Test
 

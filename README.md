@@ -9,10 +9,14 @@ Top 30 you must be to know about knowledge of algorithm.
 3. Combine two ordered arrays into one ordered array
 
 ### Linked List
-4. Implement a linked list,a circle linked list and two-way linked list all including adding and deleting function
-5. Reverse linked list.
-6. Combine two ordered linked list into one.
-7. Query a middle of node in linked list.
+1. Implement a linked list,a circle linked list and two-way linked list all including adding and deleting function
+2. Reverse linked list.
+3. Combine two ordered linked list into one.
+4. Query a middle of node in linked list.
+
+### Stack
+
+1. Implement a stack by array.
 
 ## Chinese:
 
@@ -24,7 +28,11 @@ Top 30 you must be to know about knowledge of algorithm.
 
 ### 链表
 
-4. 实现单链表，循环链表，双向链表，支持增删操作
-5. 单链表反转
-6. 实现两个有序的链表合并为一个有序链表
-7. 实现求链表的中间节点
+1. 实现单链表，循环链表，双向链表，支持增删操作
+2. 单链表反转
+3. 实现两个有序的链表合并为一个有序链表
+4. 实现求链表的中间节点
+
+### 栈
+
+1. 用数组实现一个顺序栈 
