@@ -3,7 +3,7 @@ package com.allen.testalgorithm.linedList
 import org.junit.Test
 
 /**
- * 7. 实现求链表的中间节点（MiddleNodeLinkedList）
+ * 4. 实现求链表的中间节点（MiddleNodeLinkedList）
  * Created by allen on 2020-02-08.
  */
 class MiddleNodeLinkedList {

@@ -4,7 +4,7 @@ import com.allen.testalgorithm.LinkedList
 import org.junit.Test
 
 /**
- * 4-1. 实现单链表（LinkedList），支持增删操作
+ * 1-1. 实现单链表（LinkedList），支持增删操作
  * Created by allen on 2020-02-08.
  */
 class LinkedList {

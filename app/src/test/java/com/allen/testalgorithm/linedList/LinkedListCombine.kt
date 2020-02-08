@@ -3,7 +3,7 @@ package com.allen.testalgorithm.linedList
 import org.junit.Test
 
 /**
- * 6. 实现两个有序的链表合并为一个有序链表
+ * 3. 实现两个有序的链表合并为一个有序链表
  * Created by allen on 2020-02-08.
  */
 class LinkedListCombine {

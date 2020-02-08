@@ -3,6 +3,7 @@ package com.allen.testalgorithm.stack
 import org.junit.Test
 
 /**
+ * 1. 用数组实现一个顺序栈（ArrayStack）
  * Created by allen on 2020-02-08.
  */
 class ArrayStack(var size: Int = 10) {

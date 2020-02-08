@@ -3,7 +3,7 @@ package com.allen.testalgorithm.linedList
 import org.junit.Test
 
 /**
- * 4-2. 循环链表（CircularLinkedList）,支持增删操作
+ * 1-2. 循环链表（CircularLinkedList）,支持增删操作
  * Created by allen on 2020-02-08.
  */
 

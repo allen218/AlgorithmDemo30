@@ -3,7 +3,7 @@ package com.allen.testalgorithm.linedList
 import org.junit.Test
 
 /**
- * 5. 单链表反转（ReverseLinkedList）
+ * 2. 单链表反转（ReverseLinkedList）
  * Created by allen on 2020-02-08.
  */
 class ReverseLinkedList {

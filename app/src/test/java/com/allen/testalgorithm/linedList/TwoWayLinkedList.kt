@@ -3,7 +3,7 @@ package com.allen.testalgorithm.linedList
 import org.junit.Test
 
 /**
- * 4-3. 双向链表（TwoWayLinkedList）,支持增删操作
+ * 1-3. 双向链表（TwoWayLinkedList）,支持增删操作
  * Created by allen on 2020-02-08.
  */
 class Node1(
