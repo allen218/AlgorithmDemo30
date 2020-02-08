@@ -13,6 +13,7 @@ Top 30 you must be to know about knowledge of algorithm.
 2. Reverse linked list.
 3. Combine two ordered linked list into one.
 4. Query a middle of node in linked list.
+5. Swap Node in Pairs
 
 ### Stack
 
@@ -32,6 +33,7 @@ Top 30 you must be to know about knowledge of algorithm.
 2. 单链表反转
 3. 实现两个有序的链表合并为一个有序链表
 4. 实现求链表的中间节点
+5. 实现结点的两两交换
 
 ### 栈
 
