@@ -9,6 +9,7 @@ English:
 4. Implement a linked list,a circle linked list and two-way linked list all including adding and deleting function
 5. Reverse linked list.
 6. Combine two ordered linked list into one.
+7. Query a middle of node in linked list.
 
 Chinese:
 
@@ -18,3 +19,4 @@ Chinese:
 4. 实现单链表，循环链表，双向链表，支持增删操作
 5. 单链表反转
 6. 实现两个有序的链表合并为一个有序链表
+7. 实现求链表的中间节点
