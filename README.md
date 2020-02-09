@@ -17,8 +17,9 @@ Top 30 you must be to know about knowledge of algorithm.
 
 ### Stack
 
-1. Implement a stack by array.
-2. Implement a stack by linked list.
+1. Implementing a stack by array.
+2. Implementing a stack by linked list.
+3. Simulating a browser with function of forward and back by stack.
 
 ## Chinese:
 
@@ -40,3 +41,4 @@ Top 30 you must be to know about knowledge of algorithm.
 
 1. 用数组实现一个顺序栈 
 2. 用链表实现一个链式栈
+3. 编程模拟实现一个浏览器的前进、后退功能
