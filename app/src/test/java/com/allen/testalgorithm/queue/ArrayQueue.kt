@@ -3,7 +3,7 @@ package com.allen.testalgorithm.queue
 import org.junit.Test
 
 /**
- * 1. 用数组实现一个顺序队列（ArrayQueue）
+ * 2. 用数组实现一个顺序队列（ArrayQueue）
  * Created by allen on 2020-02-09.
  */
 class ArrayQueue(private var capacity: Int = 10) {
