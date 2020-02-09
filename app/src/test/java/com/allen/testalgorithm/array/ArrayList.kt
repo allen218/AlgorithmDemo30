@@ -59,7 +59,7 @@ class ArrayListTest {
         arr.remove(2)
         arr.remove(1)
         arr.remove(0)
-        println("after removing all: size = ${arr.size}")
+        println("after removing all: isEmpty = ${arr.size}")
         arr.add(1)
         arr.add(2)
         arr.add(3)

@@ -14,7 +14,7 @@ class ArrayQueue(private var capacity: Int = 10) {
     fun enqueue(element: Int) {
         if (tail == capacity) {
             val tmp = Array(capacity * 2) { 0 }
-            System.arraycopy(items, 0, tmp, 0, size())
+            System.arraycopy(items, 0, tmp, 0, isEmpty())
             items = tmp
         }
 
@@ -22,14 +22,14 @@ class ArrayQueue(private var capacity: Int = 10) {
     }
 
     fun dequeue(): Int {
-        if (size() == 0) {
+        if (isEmpty() == 0) {
             throw NullPointerException()
         }
 
         return items[head++]
     }
 
-    fun size() = tail - head
+    fun isEmpty() = tail - head
 
 }
 
@@ -49,10 +49,10 @@ class ArrayQueueTest {
         arrayQueue.enqueue(10)
         arrayQueue.enqueue(11)
         arrayQueue.enqueue(12)
-        println("current queue size : ${arrayQueue.size()}")
+        println("current queue isEmpty : ${arrayQueue.isEmpty()}")
 
         println("all get out of the queue :")
-        while (arrayQueue.size() != 0) {
+        while (arrayQueue.isEmpty() != 0) {
             print("${arrayQueue.dequeue()},")
         }
         println()

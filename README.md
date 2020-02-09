@@ -24,6 +24,7 @@ Top 30 you must be to know about knowledge of algorithm.
 ### queue
 
 1. Implementing a queue by array.
+2. Implementing a queue by linked list.
 
 ## Chinese:
 
@@ -50,3 +51,4 @@ Top 30 you must be to know about knowledge of algorithm.
 ### 队列
 
 1. 用数组实现一个顺序队列
+2. 用链表实现一个链式队列

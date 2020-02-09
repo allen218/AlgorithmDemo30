@@ -241,12 +241,12 @@ class TestBinarySearch {
     @Test
     fun testBinarySearch() {
         val testArr = arrayOf(1, 2, 3, 4, 5, 5, 5, 6, 7, 9)
-//        println(binarySearch(testArr, testArr.size, 5))
-//        println(binarySearchReserve(testArr, testArr.size, 5))
-//        println(bFirstSearch(testArr, testArr.size, 5))
-//        println(bFirstSearchSimple(testArr, testArr.size, 5))
-//        println(bLastSearchSimple(testArr, testArr.size, 5))
-//        println(bFirstGtSearch(testArr, testArr.size, 8))
+//        println(binarySearch(testArr, testArr.isEmpty, 5))
+//        println(binarySearchReserve(testArr, testArr.isEmpty, 5))
+//        println(bFirstSearch(testArr, testArr.isEmpty, 5))
+//        println(bFirstSearchSimple(testArr, testArr.isEmpty, 5))
+//        println(bLastSearchSimple(testArr, testArr.isEmpty, 5))
+//        println(bFirstGtSearch(testArr, testArr.isEmpty, 8))
         println(bLastLtSearch(testArr, testArr.size, 8))
     }
 }
