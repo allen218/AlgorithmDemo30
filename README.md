@@ -1,14 +1,17 @@
 # AlgorithmDemo30
+
 Top 30 you must be to know about knowledge of algorithm.
 
 ## English:
 
 ### Array
-1. Implement a array that can extend capacity automatically
-2. Implement a ordered array include function of adding,removing and updating
+
+1. Implement an array that can extend capacity automatically
+2. Implement an ordered array include function of adding,removing and updating
 3. Combine two ordered arrays into one ordered array
 
 ### Linked List
+
 1. Implement a linked list,a circle linked list and two-way linked list all including adding and deleting function
 2. Reverse linked list.
 3. Combine two ordered linked list into one.
@@ -29,7 +32,9 @@ Top 30 you must be to know about knowledge of algorithm.
 
 ### Recursion
 
-1. Evaluation by Fibonacci.
+1. Evaluation by Fibonacci
+2. Factorial implementation
+3. To permute all on an array
 
 ## Chinese:
 
@@ -63,3 +68,4 @@ Top 30 you must be to know about knowledge of algorithm.
 
 1. 编程实现斐波那契数列求值
 2. 编程实现求阶乘 n!
+3. 编程实现一组数据集合的全排列
