@@ -27,6 +27,10 @@ Top 30 you must be to know about knowledge of algorithm.
 2. Implementing a queue by linked list.
 3. Implementing a circular queue.
 
+### Recursion
+
+1. Evaluation by Fibonacci.
+
 ## Chinese:
 
 ### 数组
@@ -54,3 +58,7 @@ Top 30 you must be to know about knowledge of algorithm.
 1. 用数组实现一个顺序队列
 2. 用链表实现一个链式队列
 3. 实现一个循环队列
+
+### 递归
+
+1. 编程实现斐波那契数列求值
