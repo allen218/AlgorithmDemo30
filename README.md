@@ -62,3 +62,4 @@ Top 30 you must be to know about knowledge of algorithm.
 ### 递归
 
 1. 编程实现斐波那契数列求值
+2. 编程实现求阶乘 n!
