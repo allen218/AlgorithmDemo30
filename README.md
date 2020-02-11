@@ -36,6 +36,14 @@ Top 30 you must be to know about knowledge of algorithm.
 2. Factorial implementation
 3. To permute all on an array
 
+### Sort
+
+1. Implementing a Bubble Sort Algorithm.
+2. Implementing a Selection Sort Algorithm.
+2. Implementing an insertion sort algorithm.
+2. Implementing a quick sort algorithm.
+2. Implementing a merge sort algorithm.
+
 ## Chinese:
 
 ### 数组
@@ -69,3 +77,7 @@ Top 30 you must be to know about knowledge of algorithm.
 1. 编程实现斐波那契数列求值
 2. 编程实现求阶乘 n!
 3. 编程实现一组数据集合的全排列
+
+### 排序
+
+1. 实现归并排序，快速排序，插入排序，冒泡排序，选择排序
