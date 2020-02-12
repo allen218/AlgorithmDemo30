@@ -40,9 +40,9 @@ Top 30 you must be to know about knowledge of algorithm.
 
 1. Implementing a Bubble Sort Algorithm.
 2. Implementing a Selection Sort Algorithm.
-2. Implementing an insertion sort algorithm.
-2. Implementing a quick sort algorithm.
-2. Implementing a merge sort algorithm.
+3. Implementing an insertion sort algorithm.
+4. Implementing a quick sort algorithm.
+5. Implementing a merge sort algorithm.
 
 ## Chinese:
 

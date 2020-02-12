@@ -3,6 +3,7 @@ package com.allen.testalgorithm.sort
 import org.junit.Test
 
 /**
+ * 4. 归并排序（MergeSort）
  * Created by allen on 2020-02-12.
  */
 class MergeSort {
