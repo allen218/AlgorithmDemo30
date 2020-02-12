@@ -8,6 +8,7 @@ import org.junit.Test
  */
 class InsertSort {
     fun sort(array: Array<Int>) {
+        println(array.javaClass)
         for (i in 1 until array.size) {
             val unSortFirstNode = array[i]
             var index = -1
