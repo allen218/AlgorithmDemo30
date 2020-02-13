@@ -1,6 +1,6 @@
-# AlgorithmDemo30
+# AlgorithmDemo50
 
-Top 30 you must be to know about knowledge of algorithm.
+Top 50 you must be to know about knowledge of algorithm.
 
 ## English:
 
@@ -48,6 +48,7 @@ Top 30 you must be to know about knowledge of algorithm.
 ### BinarySearch
 
 1. Implementing a binary search algorithm. 
+1. Implementing a vague binary search algorithm(the first element greater than or equal target value). 
 
 ## Chinese:
 
@@ -91,3 +92,4 @@ Top 30 you must be to know about knowledge of algorithm.
 ### 二分查找
 
 1. 实现一个有序数组的二分查找算法
+2. 实现模糊二分查找算法（比如大于等于给定值的第一个元素）

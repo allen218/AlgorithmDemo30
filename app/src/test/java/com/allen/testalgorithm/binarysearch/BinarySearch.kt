@@ -10,8 +10,8 @@ class BinarySearch {
     fun find(array: Array<Int>, k: Int): Int {
         var low = 0
         var high = array.size - 1
-        var middle = (low + high) / 2
         while (low <= high) {
+            var middle = low + (high - low) / 2
             when {
                 array[middle] == k -> return middle
                 array[middle] > k -> high = middle - 1
