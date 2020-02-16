@@ -1,4 +1,4 @@
-package com.allen.testalgorithm.linedList
+package com.allen.testalgorithm.linkedList
 
 import org.junit.Test
 

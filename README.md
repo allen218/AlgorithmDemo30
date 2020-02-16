@@ -13,22 +13,22 @@ Top 50 you must be to know about knowledge of algorithm.
 ### Linked List
 
 1. Implement a linked list,a circle linked list and two-way linked list all including adding and deleting function
-2. Reverse linked list.
-3. Combine two ordered linked list into one.
-4. Query a middle of node in linked list.
+2. Reverse linked list
+3. Combine two ordered linked list into one
+4. Query a middle of node in linked list
 5. Swap Node in Pairs
 
 ### Stack
 
-1. Implementing a stack by array.
-2. Implementing a stack by linked list.
-3. Simulating a browser with function of forward and back by stack.
+1. Implementing a stack by array
+2. Implementing a stack by linked list
+3. Simulating a browser with function of forward and back by stack
 
 ### Queue
 
-1. Implementing a queue by array.
-2. Implementing a queue by linked list.
-3. Implementing a circular queue.
+1. Implementing a queue by array
+2. Implementing a queue by linked list
+3. Implementing a circular queue
 
 ### Recursion
 
@@ -38,17 +38,22 @@ Top 50 you must be to know about knowledge of algorithm.
 
 ### Sort
 
-1. Implementing a Bubble Sort Algorithm.
-2. Implementing a Selection Sort Algorithm.
-3. Implementing an insertion sort algorithm.
-4. Implementing a quick sort algorithm.
-5. Implementing a merge sort algorithm.
-6. Finding out Kth element with an array in O(n).
+1. Implementing a Bubble Sort Algorithm
+2. Implementing a Selection Sort Algorithm
+3. Implementing an insertion sort algorithm
+4. Implementing a quick sort algorithm
+5. Implementing a merge sort algorithm
+6. Finding out Kth element with an array in O(n)
 
 ### BinarySearch
 
-1. Implementing a binary search algorithm. 
-1. Implementing a vague binary search algorithm(the first element greater than or equal target value). 
+1. Implementing a binary search algorithm
+2. Implementing a vague binary search algorithm(the first element greater than or equal target value)
+
+### Hash Table
+
+1. Implementing a hash table that solving conflict base on linked list.
+
 
 ## Chinese:
 
@@ -93,3 +98,7 @@ Top 50 you must be to know about knowledge of algorithm.
 
 1. 实现一个有序数组的二分查找算法
 2. 实现模糊二分查找算法（比如大于等于给定值的第一个元素）
+
+### 散列表
+
+1. 实现一个基于链表法解决冲突问题的散列表

@@ -1,6 +1,6 @@
 package com.allen.testalgorithm.queue
 
-import com.allen.testalgorithm.linedList.Node
+import com.allen.testalgorithm.linkedList.Node
 import org.junit.Test
 
 /**

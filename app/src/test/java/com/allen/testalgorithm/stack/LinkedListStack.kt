@@ -1,6 +1,6 @@
 package com.allen.testalgorithm.stack
 
-import com.allen.testalgorithm.linedList.Node
+import com.allen.testalgorithm.linkedList.Node
 import org.junit.Test
 
 /**
