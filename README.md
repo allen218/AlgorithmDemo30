@@ -55,6 +55,9 @@ Top 50 you must be to know about knowledge of algorithm.
 
 1. Implementing a hash table that solving conflict base on linked list.
 
+### BinarySearchTree
+
+1. To recurse the binary tree.
 
 ## Chinese:
 
@@ -104,3 +107,7 @@ Top 50 you must be to know about knowledge of algorithm.
 ### 散列表
 
 1. 实现一个基于链表法解决冲突问题的散列表
+
+### 二叉树
+
+1. 二叉树的遍历
