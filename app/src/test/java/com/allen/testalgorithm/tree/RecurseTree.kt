@@ -42,9 +42,9 @@ class RecurseTree {
 }
 
 class TreeNode(
-    val data: Int,
-    val left: TreeNode?,
-    val right: TreeNode?
+    var data: Int,
+    var left: TreeNode?,
+    var right: TreeNode?
 )
 
 class Test {
