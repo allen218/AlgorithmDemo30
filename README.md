@@ -60,6 +60,10 @@ Top 50 you must be to know about knowledge of algorithm.
 
 1. To recurse the binary tree.
 
+### String
+
+1. To match Strings using BM Algorithm.
+
 ## Chinese:
 
 ### 数组
@@ -113,3 +117,7 @@ Top 50 you must be to know about knowledge of algorithm.
 ### 二叉树
 
 1. 二叉树的遍历
+
+### 字符串相关
+
+1. 使用 BM 算法来实现字符串匹配功能
