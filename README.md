@@ -63,6 +63,7 @@ Top 50 you must be to know about knowledge of algorithm.
 ### String
 
 1. To match Strings using BM Algorithm.
+2. To insert and find the strings by algorithm of trie tree.
 
 ## Chinese:
 
@@ -121,3 +122,4 @@ Top 50 you must be to know about knowledge of algorithm.
 ### 字符串相关
 
 1. 使用 BM 算法来实现字符串匹配功能
+2. 使用 Trie 树实现字符串的插入和查找
