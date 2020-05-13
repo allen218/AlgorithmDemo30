@@ -65,6 +65,10 @@ Top 50 you must be to know about knowledge of algorithm.
 1. To match Strings using BM Algorithm.
 2. To insert and find the strings by algorithm of trie tree.
 
+### Systematic Planing
+
+1. To solve the problem of 0 or 1 bag by recalling method.
+
 ## Chinese:
 
 ### 数组
@@ -123,3 +127,7 @@ Top 50 you must be to know about knowledge of algorithm.
 
 1. 使用 BM 算法来实现字符串匹配功能
 2. 使用 Trie 树实现字符串的插入和查找
+
+### 动态规划
+
+1. 使用回溯算法解决 0 或 1 背包问题
