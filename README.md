@@ -54,21 +54,22 @@ Top 50 you must be to know about knowledge of algorithm.
 
 ### Hash Table
 
-1. Implementing a hash table that solving conflict base on linked list.
+1. Implementing a hash table that solving conflict base on linked list
 
 ### BinarySearchTree
 
-1. To recurse the binary tree.
+1. To recurse the binary tree
 
 ### String
 
-1. To match Strings using BM Algorithm.
-2. To insert and find the strings by algorithm of trie tree.
+1. To match Strings using BM Algorithm
+2. To insert and find the strings by algorithm of trie tree
 
 ### Systematic Planing
 
-1. To solve the problem of 0 or 1 bag by recalling method.
-2. To solve the problem of 0 or 1 bag by dynamic planing method with two dimensional array.
+1. To solve the problem of 0 or 1 bag by recalling method
+2. To solve the problem of 0 or 1 bag by dynamic planing method with two dimensional array
+2. To solve the problem of 0 or 1 bag by dynamic planing method with a dimensional array
 
 ## Chinese:
 
@@ -133,3 +134,4 @@ Top 50 you must be to know about knowledge of algorithm.
 
 1. 使用回溯算法解决 0 或 1 背包问题
 2. 使用二维数组方式实现动态规划来解决 0 或 1 背包问题
+2. 使用一维数组方式实现动态规划来解决 0 或 1 背包问题

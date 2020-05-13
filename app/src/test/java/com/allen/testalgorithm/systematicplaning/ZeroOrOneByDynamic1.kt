@@ -5,7 +5,7 @@ import org.junit.Test
 /**
  * To solve the problem of 0 or 1 bag by dynamic planing method with two dimensional array.
  */
-class ZeroOrOneByDynamic {
+class ZeroOrOneByDynamic1 {
 
     @Test
     fun test() {
