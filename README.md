@@ -68,6 +68,7 @@ Top 50 you must be to know about knowledge of algorithm.
 ### Systematic Planing
 
 1. To solve the problem of 0 or 1 bag by recalling method.
+2. To solve the problem of 0 or 1 bag by dynamic planing method with two dimensional array.
 
 ## Chinese:
 
@@ -131,3 +132,4 @@ Top 50 you must be to know about knowledge of algorithm.
 ### 动态规划
 
 1. 使用回溯算法解决 0 或 1 背包问题
+2. 使用二维数组方式实现动态规划来解决 0 或 1 背包问题

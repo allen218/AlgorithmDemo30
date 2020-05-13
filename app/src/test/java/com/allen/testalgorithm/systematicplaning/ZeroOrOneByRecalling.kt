@@ -5,7 +5,7 @@ import org.junit.Test
 /**
  * To solve the problem of 0 or 1 bag by recalling method.
  */
-class ZeroOrOneByRecall {
+class ZeroOrOneByRecalling {
     @Test
     fun test() {
         val weight = arrayOf(2, 9, 3, 6, 11, 5)
