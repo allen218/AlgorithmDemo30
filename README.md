@@ -70,6 +70,7 @@ Top 50 you must be to know about knowledge of algorithm.
 1. To solve the problem of 0 or 1 bag by recalling method
 2. To solve the problem of 0 or 1 bag by dynamic planing method with two dimensional array
 3. To solve the problem of 0 or 1 bag by dynamic planing method with a dimensional array
+4. To solve the problem of the shortest path from a[0][0] to a[i][j] by state diagram method
 
 ### Topological Sort
 
@@ -143,6 +144,7 @@ Top 50 you must be to know about knowledge of algorithm.
 1. 使用回溯算法解决 0 或 1 背包问题
 2. 使用二维数组方式实现动态规划来解决 0 或 1 背包问题
 3. 使用一维数组方式实现动态规划来解决 0 或 1 背包问题
+4. 使用状态转移表法解决从 a[0][0] 到 a[i][j] 的最短路径问题
 
 ### 拓扑排序
 
