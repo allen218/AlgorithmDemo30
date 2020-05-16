@@ -69,7 +69,11 @@ Top 50 you must be to know about knowledge of algorithm.
 
 1. To solve the problem of 0 or 1 bag by recalling method
 2. To solve the problem of 0 or 1 bag by dynamic planing method with two dimensional array
-2. To solve the problem of 0 or 1 bag by dynamic planing method with a dimensional array
+3. To solve the problem of 0 or 1 bag by dynamic planing method with a dimensional array
+
+### Topological Sort
+
+1. To implement a topological sort by Kahn
 
 ## Chinese:
 
@@ -134,4 +138,8 @@ Top 50 you must be to know about knowledge of algorithm.
 
 1. 使用回溯算法解决 0 或 1 背包问题
 2. 使用二维数组方式实现动态规划来解决 0 或 1 背包问题
-2. 使用一维数组方式实现动态规划来解决 0 或 1 背包问题
+3. 使用一维数组方式实现动态规划来解决 0 或 1 背包问题
+
+### 拓扑排序
+
+1. 使用 Kahn 算法实现拓扑排序
