@@ -75,6 +75,10 @@ Top 50 you must be to know about knowledge of algorithm.
 
 1. To implement a topological sort by Kahn
 
+### Bitmap
+
+1. Bitmap structure
+
 ## Chinese:
 
 ### 数组
@@ -143,3 +147,7 @@ Top 50 you must be to know about knowledge of algorithm.
 ### 拓扑排序
 
 1. 使用 Kahn 算法实现拓扑排序
+
+## 位图
+
+1. 位图数据结构
