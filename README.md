@@ -80,6 +80,10 @@ Top 50 you must be to know about knowledge of algorithm.
 
 1. Bitmap structure
 
+### Other
+
+1. To implement a hanoi algorithm
+
 ## Chinese:
 
 ### 数组
@@ -153,3 +157,7 @@ Top 50 you must be to know about knowledge of algorithm.
 ## 位图
 
 1. 位图数据结构
+
+### 其它
+
+1. 实现一个汉诺塔
