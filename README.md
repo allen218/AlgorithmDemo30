@@ -45,7 +45,8 @@ Top 50 you must be to know about knowledge of algorithm.
 4. Implementing a quick sort algorithm
 5. Implementing a merge sort algorithm
 6. Finding out Kth element with an array in O(n)
-7. Implementing a sorting by heap.
+7. Implementing a sorting by heap
+8. Implementing a radix sort algorithm
 
 ### BinarySearch
 
@@ -121,7 +122,7 @@ Top 50 you must be to know about knowledge of algorithm.
 
 ### 排序
 
-1. 实现归并排序，快速排序，插入排序，冒泡排序，选择排序
+1. 实现归并排序，快速排序，插入排序，冒泡排序，选择排序，基数排序
 2. 编程实现 O(n) 时间复杂度内找到一组数据的第 K 大元素
 3. 堆排序实现
 
