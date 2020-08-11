@@ -63,8 +63,9 @@ Top 50 you must be to know about knowledge of algorithm.
 
 ### String
 
-1. To match Strings using BM Algorithm
-2. To insert and find the strings by algorithm of trie tree
+1. to match String by BF(Bruce Force) Algorithm
+2. To match Strings using BM Algorithm
+3. To insert and find the strings by algorithm of trie tree
 
 ### Systematic Planing
 
@@ -141,8 +142,9 @@ Top 50 you must be to know about knowledge of algorithm.
 
 ### 字符串相关
 
-1. 使用 BM 算法来实现字符串匹配功能
-2. 使用 Trie 树实现字符串的插入和查找
+1. 使用 BF（暴力破解）算法来实现字符串匹配功能 
+2. 使用 BM 算法来实现字符串匹配功能
+3. 使用 Trie 树实现字符串的插入和查找
 
 ### 动态规划
 
